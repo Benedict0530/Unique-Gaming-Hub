@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9bbcbae4.css",
-    "main.js": "/static/js/main.025cf493.js",
+    "main.js": "/static/js/main.61bb7e85.js",
     "static/js/453.7e9b973a.chunk.js": "/static/js/453.7e9b973a.chunk.js",
     "static/media/LuckyTigerReels.png": "/static/media/LuckyTigerReels.57d686ec6c1bb389dd5c.png",
     "static/media/ZeusFortunePalace.png": "/static/media/ZeusFortunePalace.631d7c522d4b5cf92279.png",
@@ -9,11 +9,11 @@
     "static/media/logo.png": "/static/media/logo.cfc37ca86a229623e3bb.png",
     "index.html": "/index.html",
     "main.9bbcbae4.css.map": "/static/css/main.9bbcbae4.css.map",
-    "main.025cf493.js.map": "/static/js/main.025cf493.js.map",
+    "main.61bb7e85.js.map": "/static/js/main.61bb7e85.js.map",
     "453.7e9b973a.chunk.js.map": "/static/js/453.7e9b973a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bbcbae4.css",
-    "static/js/main.025cf493.js"
+    "static/js/main.61bb7e85.js"
   ]
 }
